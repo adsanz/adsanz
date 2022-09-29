@@ -21,13 +21,13 @@ I'm Adrian! A 24y old IT professional with +3 years of experience in DevOps. I'v
 
 ### history | grep "Work exp: "
 
-1. Work exp: Nokia
+**1. Work exp: Nokia**
 
 Developed a platform for students to get access to a virtual machine. Acting as a "middleware" they request the lab from a moodle platform, which would trigger the lab env creation and access on a openstack cloud via the django platform. This platform will also allow the student the access via "apache guacamole".
 
 There was an admin platform which allowed the teachers to give, revoke or list accesses. All this was backed with AD authentication. It was my first time working with Django, and even thought the platform worked, it was messy and required lots of fixes, this was done in 4 months (hackaton vibe tbh)
 
-2. Work exp: MrMilu
+**2. Work exp: MrMilu**
 
 Started of as a DevOps, managing the full lifecycle of a product, from the local development env, to staging, to production, covering backups, monitoring & security maintenance. Lately I've been working on a start-up project and I've worked on:
 - **Cloud Arquitech**: Set-up with terraform (and previously pulumi to test both tools) a full and functional environment. We left out some elements like RDS since that was managed by Ansible playbooks on pipelines. Also I've created different cloud proposals for different clients 
