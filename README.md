@@ -56,4 +56,4 @@ Started of as a DevOps, managing the full lifecycle of a product, from the local
 
 ### `cat goals`
 
-I'm aiming to be an expert on CiberSec someday, that has been my dream since I was 15 and I discovered Chema Alonso, but turns out I'm good as a DevOps, so I aim into being a "SecDevOps"
+I'm aiming to be an expert on CiberSec someday, that has been my dream since I was 15 and I discovered Chema Alonso, but turns out I'm good as a DevOps, so I aim to be a "SecDevOps"
