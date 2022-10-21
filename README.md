@@ -39,6 +39,10 @@ Started of as a DevOps, managing the full lifecycle of a product, from the local
 - **SRE**: Monitoring with Prometheus suit (grafana, prom, exporters, loki, prom-executor, karma, alert-manager) the platform and get useful insights on about critical services like RDS, ElastiCache, EC2 instances, celery services. 
 - **DevOps & SysOps**: Managed backups on 2 different regions with AWS backups, made a pipeline to execute datasync to get backups moved to Azure for disaster recovery. Configure & provision all envs with Ansible via pipelines on a custom gitlab runner set. 
 
+#### **3. Work exp: Atalanta**
+
+- **Senior DevSecOps** (started of 20th oct 2022)
+
 ### `cat goals`
 
 I'm aiming to be an expert on CiberSec someday, that has been my dream since I was 15 and I discovered Chema Alonso, but turns out I'm good as a DevOps, so I aim to be a "SecDevOps"
