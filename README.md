@@ -1,26 +1,11 @@
 # Hi there 👋
 
-<!--
-**adsanz/adsanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### `whoami`
 
 I'm Adrian! A 24y old IT professional with +3 years of experience in DevOps. I've also worked as a developer and I love developing tools to make my life and others people life easier. 
 
-- 🔭 I’m currently working on MrMilu
-- 🌱 I’m currently learning about packer & wireguard
+- 🔭 I’m currently working on Atalanta
+- 🌱 I’m currently learning about Git flow
 - 👯 I’m looking to collaborate on python projects
 - 💬 Ask me about Ansible!
 - 😄 Pronouns: He/Him
