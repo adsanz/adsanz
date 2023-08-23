@@ -2,10 +2,10 @@
 
 ### `whoami`
 
-I'm Adrian! A 24y old IT professional with +3 years of experience in DevOps. I've also worked as a developer and I love developing tools to make my life and others people life easier. 
+I'm Adrian! A 25y old IT professional with +3 years of experience in DevOps. I've also worked as a developer and I love developing tools to make my life and others people life easier. 
 
 - 🔭 I’m currently working on Atalanta
-- 🌱 I’m currently learning about Apache Airflow, K8S & OSINT
+- 🌱 I’m currently learning about Software Arquitechture and other similar stuff 
 - 👯 I’m looking to collaborate on Python3 projects 
 - 💬 Ask me about Ansible!
 - 😄 Pronouns: He/Him
