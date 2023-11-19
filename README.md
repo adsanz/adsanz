@@ -4,8 +4,8 @@
 
 I'm Adrian! A 25y old IT professional with +3 years of experience in DevOps. I've also worked as a developer and I love developing tools to make my life and others people life easier. 
 
-- 🔭 I’m currently working on Atalanta
-- 🌱 I’m currently learning about Software Arquitechture and other similar stuff 
+- 🔭 I’m currently working on Cipher (prosegur)
+- 🌱 I’m currently learning about AI towards DevOps ans Security 
 - 👯 I’m looking to collaborate on Python3 projects 
 - 💬 Ask me about Ansible!
 - 😄 Pronouns: He/Him
@@ -15,10 +15,9 @@ I'm Adrian! A 25y old IT professional with +3 years of experience in DevOps. I'v
 
 ```
 HTTP/2 301 
-date: Thu, 29 Sep 2022 11:40:18 GMT
+date: Thu, 19 Nov 2023 11:40:18 GMT
 content-type: text/html
 location: https://www.linkedin.com/in/adrian-sanz-melchor/
-report-to: ad.sanz@hotmail.com
 city: Madrid
 c-code: ES
 ```
@@ -41,7 +40,20 @@ Started of as a DevOps, managing the full lifecycle of a product, from the local
 
 #### **3. Work exp: Atalanta**
 
-- **Senior DevSecOps** (started of 20th oct 2022)
+- **Senior DevSecOps** 
+- worked on CICD for cloud native apps on AWS and migrated monolithic workloads managed via Ansible
+- developed different scripts for Purple team operations
+- worked with different clients to identify key points to migrate to DevOps culture
+- Extras
+-- Made my way to MorterueloCON 2023 demonstrating some of the flipper zero capabilities with Xtreme firmware
+-- Did a talk on UAH (University of Alcala) about a example on how to simplify deployments to ECS using a docker compose extension + github actions and explaining cloud native workloads on ECS
+
+### **4. Work exp: Cipher - resumed details**
+
+- **Senior Tech Specialist (DevSecOps / System Arquitech / Python Dev)
+- Develop a solution for CICD with Azure Devops
+- Work on improve current system arquitechture 
+- coordinate and manage migration to microservices
 
 ### `cat goals`
 
