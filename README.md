@@ -45,16 +45,16 @@ Started of as a DevOps, managing the full lifecycle of a product, from the local
 - developed different scripts for Purple team operations
 - worked with different clients to identify key points to migrate to DevOps culture
 - Extras
--- Made my way to MorterueloCON 2023 demonstrating some of the flipper zero capabilities with Xtreme firmware
--- Did a talk on UAH (University of Alcala) about a example on how to simplify deployments to ECS using a docker compose extension + github actions and explaining cloud native workloads on ECS
+	- Made my way to MorterueloCON 2023 demonstrating some of the flipper zero capabilities with Xtreme firmware
+	- Did a talk on UAH (University of Alcala) about a example on how to simplify deployments to ECS using a docker compose extension + github actions and explaining cloud native workloads on ECS
 
 ### **4. Work exp: Cipher - resumed details**
 
-- **Senior Tech Specialist (DevSecOps / System Arquitech / Python Dev)
+- **Senior Tech Specialist (DevSecOps / System Arquitech / Python Dev)**
 - Develop a solution for CICD with Azure Devops
 - Work on improve current system arquitechture 
 - coordinate and manage migration to microservices
 
 ### `cat goals`
 
-I'm aiming to be an expert on CiberSec someday, that has been my dream since I was 15 and I discovered Chema Alonso, but turns out I'm good as a DevOps, so I aim to be a "SecDevOps"
+Aiming to he an expert to system desing, AI related proyects and cibersecurity.
