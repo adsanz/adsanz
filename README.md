@@ -2,12 +2,12 @@
 
 ### `whoami`
 
-I'm Adrian! A 25y old IT professional with +3 years of experience in DevOps. I've also worked as a developer and I love developing tools to make my life and others people life easier. 
+I'm Adrian! A 27y old IT professional with +6 years of experience in DevOps / SRE and +3 years of Developing in Python (although lately I've switched to rust for almost everything system related). I think developing is an art, and expression of ideas that can be materialized. 
 
 - 🔭 I’m currently working on Cipher (prosegur)
 - 🌱 I’m currently learning about AI towards DevOps ans Security 
-- 👯 I’m looking to collaborate on Python3 projects 
-- 💬 Ask me about Ansible!
+- 👯 I’m looking to collaborate on Rust projects 
+- 💬 Ask me about Rust!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have lots of tattos & I'm a gym rat
 
@@ -15,7 +15,7 @@ I'm Adrian! A 25y old IT professional with +3 years of experience in DevOps. I'v
 
 ```
 HTTP/2 301 
-date: Thu, 19 Nov 2023 11:40:18 GMT
+date: Thu, 19 Nov 2026 11:40:18 GMT
 content-type: text/html
 location: https://www.linkedin.com/in/adrian-sanz-melchor/
 city: Madrid
